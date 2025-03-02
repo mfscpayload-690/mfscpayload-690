@@ -1,22 +1,22 @@
 # Aravind Lal
 
-**Cybersecurity Enthusiast**  
-**Pursuing BTech in Computer Science & Engineering at IHRD College of Engineering, Kallooppara - India**
+Aspiring Cybersecurity Enthusiast | BTech CSE Student | Ethical Hacking & Network Security Learner
+I’m a BTech Computer Science and Engineering student at IHRD College of Engineering, Kallooppara, passionate about cybersecurity, ethical hacking, and network security.
+Currently learning firewalls, penetration testing, computer networking, and cyber forensics, along with programming in Python, Java, and C. I also work with Linux, Terminal, Shell/Bash scripting, and security tools like Nmap to explore cybersecurity concepts. I enjoy solving CTF challenges and staying updated with the latest trends in the field.
 
----
+🔹 Learning: Ethical Hacking, Network Security, Cyber Forensics, Shell/Bash Scripting
+🔹 Tech Skills: Python, C, Linux, Terminal, Bash, Nmap
+🔹 Interested in: Internships, Cybersecurity Projects, and Connecting with Like-Minded People
 
-### About Me
+Always excited to learn, grow, and collaborate! Let’s connect and talk about cybersecurity, ethical hacking, or anything tech-related!
 
-Hi there! I’m **Aravind Lal**, an aspiring cybersecurity enthusiast passionate about using my skills to tackle real-world cybersecurity challenges.
-I’m currently studying **Computer Science and Engineering** at IHRD College of Engineering, Kallooppara, where I’m building a strong foundation in programming and network security.
+#Top skills
 
-I’m always eager to connect with other tech enthusiasts and contribute to impactful projects.
-Let’s collaborate on cybersecurity initiatives, research, or any projects that push the boundaries of what’s possible in tech!
-
+Linux • Cybersecurity • Computer Hardware
 
 ### Get in Touch
 
-- **[LinkedIn](www.linkedin.com/in/aravindlal8086)**: Let’s connect and explore collaboration opportunities.
+- **[LinkedIn](https://www.linkedin.com/in/aravindlal8086/)**: Let’s connect and explore collaboration opportunities.
 - **[Instagram](https://www.instagram.com/mfscpayload_690_)**: Follow me on Instagram for updates and tech insights.
 - **Email**: aravindlal2006@gmail.com
 
