@@ -17,7 +17,7 @@ Let’s collaborate on cybersecurity initiatives, research, or any projects that
 ### Get in Touch
 
 - **[LinkedIn](www.linkedin.com/in/aravindlal8086)**: Let’s connect and explore collaboration opportunities.
-- **[Instagram]([https://www.instagram.com/your_instagram_id](https://www.instagram.com/mfscpayload_690_/))**: Follow me on Instagram for updates and tech insights.
+- **[Instagram](https://www.instagram.com/mfscpayload_690_)**: Follow me on Instagram for updates and tech insights.
 - **Email**: aravindlal2006@gmail.com
 
 --- 
