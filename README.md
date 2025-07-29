@@ -77,11 +77,13 @@ What I use for backend logic, system automation, and hands-on server/hardware co
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)  
-![GitHub Streak](https://streak-stats.demolab.com?user=mfscpayload-690&theme=tokyonight&hide_border=true&border_radius=12)  
+<!-- Add a dummy timestamp to bust cache -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&t=1)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&t=2)  
+![GitHub Streak](https://streak-stats.demolab.com?user=mfscpayload-690&theme=tokyonight&hide_border=true&border_radius=12&t=3)  
 
 </div>
+
 
 ---
 
