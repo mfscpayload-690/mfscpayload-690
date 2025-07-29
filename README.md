@@ -73,7 +73,6 @@ What I use for backend logic, system automation, and hands-on server/hardware co
 
 ---
 
-## 📊 GitHub Stats & Activity
 
 ## 📊 GitHub Stats & Activity
 
