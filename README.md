@@ -10,9 +10,10 @@ Hi, I’m Aravind Lal — a BTech Computer Science & Engineering student at IHRD
 
 - 🔍 **Research**: Log analysis & anomaly detection for intrusion response in small-scale Linux networks  
 - 🖥️ **Home Server Project**: Repurposed an old **Acer Travelmate (2015)** into a private file server using **Samba**, IP masking, and network traffic control  
-- 💻 **Desktop App**: `Network Intrusion Log Manager` – Built in Java Swing + JDBC + MySQL  
+- 🖥 **Desktop App**: `Network Intrusion Log Manager` – Built in Java Swing + JDBC + MySQL  
+- 📡 **Sniff-Recon**: Python CLI/GUI tool for PCAP analysis, leveraging AI (OpenAI / GroqCloud) to detect anomalies, suspicious traffic patterns, and potential attacks  
 - 🧪 **Multi-Boot Playground**: Parrot OS, Kali, Manjaro, Pop!_OS — real-world OS-level experiments  
-- 🧠 **Arch Linux Journey**: Used **pure Arch**, **BlackArch**, and distros like **Garuda**, **Zorin**, **Manjaro** — mastered package managers, custom kernels, and system tweaks  
+
 
 ---
 
