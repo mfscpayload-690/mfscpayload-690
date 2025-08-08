@@ -54,8 +54,10 @@ My go-to toolkit for network analysis, packet capture, log monitoring, and serve
 
 ![Nmap](https://img.shields.io/badge/Nmap-004d7a?style=for-the-badge&logo=nmap&logoColor=white)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white)  
 ![Fail2Ban](https://img.shields.io/badge/Fail2Ban-blue?style=for-the-badge)  
 ![iptables](https://img.shields.io/badge/iptables-grey?style=for-the-badge)
+
 
 ### 🛠️ Server, Backend & Hardware Tools
 
