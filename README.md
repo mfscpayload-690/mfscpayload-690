@@ -103,8 +103,6 @@ What I use for backend logic, system automation, and hands-on server/hardware co
 ---
 
 <div align="center">
-  
-![Visitor Badge](https://komarev.com/ghpvc/?username=mfscpayload-690&label=Profile%20Views&color=blue&style=flat-square)
 
 </div>
 
