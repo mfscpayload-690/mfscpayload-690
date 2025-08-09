@@ -30,44 +30,46 @@ Hi, I’m Aravind Lal — a BTech Computer Science & Engineering student at IHRD
 ## 🧰 Tech Stack & Tools
 
 ### 📚 Programming Languages I Use Regularly
-
 These are the languages I use for scripting, backend development, and security automation. I also use HTML/CSS when needed for server dashboards, panels, and log visualization:
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
 ### 💻 Operating Systems I Work With
-
 From secure Linux distros to rolling releases, I explore each to deepen my system-level knowledge:
- 
-![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)  
-![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)  
-![Parrot OS](https://img.shields.io/badge/Parrot-1F9AFE?style=for-the-badge&logo=parrot-security&logoColor=white)  
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Parrot-1F9AFE?style=for-the-badge&logo=parrot-security&logoColor=white">
+  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
+</p>
 
 ### 🔐 Cybersecurity & Network Tools
-
 My go-to toolkit for network analysis, packet capture, log monitoring, and server-side protection:
 
-![Nmap](https://img.shields.io/badge/Nmap-004d7a?style=for-the-badge&logo=nmap&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white)  
-![Fail2Ban](https://img.shields.io/badge/Fail2Ban-blue?style=for-the-badge)  
-![iptables](https://img.shields.io/badge/iptables-grey?style=for-the-badge)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-004d7a?style=for-the-badge&logo=nmap&logoColor=white">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Fail2Ban-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/iptables-grey?style=for-the-badge">
+</p>
 
 ### 🛠️ Server, Backend & Hardware Tools
-
 What I use for backend logic, system automation, and hands-on server/hardware configuration:
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  
-![Swing](https://img.shields.io/badge/Swing-A100FF?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Swing-A100FF?style=for-the-badge">
+</p>
 
 ---
 
@@ -85,9 +87,9 @@ What I use for backend logic, system automation, and hands-on server/hardware co
 <div align="center">
 
 <!-- Stats with timestamp query to force refresh -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&t=23)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&t=12)  
-![GitHub Streak](https://streak-stats.vercel.app/?user=mfscpayload-690&theme=tokyonight&hide_border=true&border_radius=12&t=23)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&t=24)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&t=22)  
+![GitHub Streak](https://streak-stats.vercel.app/?user=mfscpayload-690&theme=tokyonight&hide_border=true&border_radius=12&t=24)
 
 </div>
 
