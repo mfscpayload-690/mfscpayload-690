@@ -88,9 +88,9 @@ What I use for backend logic, system automation, and hands-on server/hardware co
 <div align="center">
 
 <!-- Stats with timestamp query to force refresh -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&t=24)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&t=22)  
-![GitHub Streak](https://streak-stats.vercel.app/?user=mfscpayload-690&theme=tokyonight&hide_border=true&border_radius=12&t=24)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&t=26)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&t=21)  
+![GitHub Streak](https://streak-stats.vercel.app/?user=mfscpayload-690&theme=tokyonight&hide_border=true&border_radius=12&t=27)
 
 </div>
 
