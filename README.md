@@ -82,33 +82,30 @@ What I use for backend logic, system automation, and hands-on server/hardware co
 
 ---
 
-
-## 📊 GitHub Stats & Activity
-
+## 📊 GitHub Stats
 <div align="center">
-
-<!-- Stats with timestamp query to force refresh -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&t=45)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&t=78)  
-![GitHub Streak](https://streak-stats.vercel.app/?user=mfscpayload-690&theme=tokyonight&hide_border=true&border_radius=12&t=49)
-
-</div>
-
-
----
-
-## <img src="https://img.icons8.com/ios-filled/30/000000/internet--v1.png" alt="Internet" width="24"/> Connect with Me
-
-- <img src="https://img.icons8.com/ios-filled/24/0A66C2/linkedin.png" alt="LinkedIn" width="20"/> [LinkedIn](https://www.linkedin.com/in/aravindlal8086/) – Professional updates & research logs  
-- <img src="https://img.icons8.com/ios-filled/24/E4405F/instagram-new.png" alt="Instagram" width="20"/> [Instagram](https://www.instagram.com/mfscpayload_690_) – Cyber-themed posts, tech setup glimpses  
-- <img src="https://img.icons8.com/ios-filled/24/ffffff/new-post.png" alt="Email" width="20"/> **Email**: aravindlal2006@gmail.com
-
----
-
-<div align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" alt="GitHub Stats" loading="lazy">
+  <img src="https://streak-stats.vercel.app/?user=mfscpayload-690&theme=tokyonight&hide_border=true&border_radius=12&card_width=550" alt="GitHub Streak" loading="lazy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" alt="Top Languages" loading="lazy">
+  <img src="https://github-profile-trophy.vercel.app/?username=mfscpayload-690&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" loading="lazy">
 </div>
 
 ---
 
-### ⚡ "Build. Secure. Repeat."
+## <img src="https://img.icons8.com/ios-filled/30/39FF14/internet--v1.png" alt="Internet" width="24"/> Connect with Me
+
+  <a href="https://www.linkedin.com/in/aravindlal8086/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:22px;box-shadow:0 0 10px #0A66C2;">
+  </a>
+  <a href="https://www.instagram.com/mfscpayload_690_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius:22px;box-shadow:0 0 10px #E4405F;">
+  </a>
+  
+  <a href="mailto:aravindlal2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius:20px;box-shadow:0 0 10px #39FF14;">
+  </a>
+</p>
+
+</div>
+
+---
