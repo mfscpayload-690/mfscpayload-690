@@ -101,7 +101,7 @@ What I use for backend logic, system automation, and hands-on server/hardware co
 
 - <img src="https://img.icons8.com/ios-filled/24/0A66C2/linkedin.png" alt="LinkedIn" width="20"/> [LinkedIn](https://www.linkedin.com/in/aravindlal8086/) – Professional updates & research logs  
 - <img src="https://img.icons8.com/ios-filled/24/E4405F/instagram-new.png" alt="Instagram" width="20"/> [Instagram](https://www.instagram.com/mfscpayload_690_) – Cyber-themed posts, tech setup glimpses  
-- <img src="https://img.icons8.com/ios-filled/24/000000/new-post.png" alt="Email" width="20"/> **Email**: aravindlal2006@gmail.com  
+- <img src="https://img.icons8.com/ios-filled/24/ffffff/new-post.png" alt="Email" width="20"/> **Email**: aravindlal2006@gmail.com
 
 ---
 
