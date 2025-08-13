@@ -87,7 +87,6 @@ What I use for backend logic, system automation, and hands-on server/hardware co
   <img src="https://github-readme-stats.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" alt="GitHub Stats" loading="lazy">
   <img src="https://streak-stats.vercel.app/?user=mfscpayload-690&theme=tokyonight&hide_border=true&border_radius=12&card_width=550" alt="GitHub Streak" loading="lazy">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" alt="Top Languages" loading="lazy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mfscpayload-690&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" loading="lazy">
 </div>
 
 ---
