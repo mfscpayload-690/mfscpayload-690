@@ -84,9 +84,17 @@ What I use for backend logic, system automation, and hands-on server/hardware co
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" alt="GitHub Stats" loading="lazy" t=10> <img src="https://streak-stats.vercel.app/?user=mfscpayload-690&theme=tokyonight&hide_border=true&border_radius=12&card_width=550" alt="GitHub Streak" loading="lazy">
-<div align=center>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" alt="GitHub Stats" loading="lazy">
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" alt="GitHub Stats" loading="lazy" t=10>
+
+  <img src="https://streak-stats.vercel.app/?user=mfscpayload-690&theme=tokyonight&hide_border=true&border_radius=12&card_width=550" alt="GitHub Streak" loading="lazy">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" alt="Top Languages" loading="lazy">
+
 </div>
 
 ---
