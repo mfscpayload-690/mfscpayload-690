@@ -1,4 +1,4 @@
-# 👨‍💻 Aravind Lal
+# Aravind Lal
 
 **Cybersecurity Enthusiast | BTech CSE Student | Linux Nerd | Hardware & Network Explorer**
 
@@ -6,24 +6,24 @@ Hi, I’m Aravind Lal — a BTech Computer Science & Engineering student at IHRD
 
 ---
 
-## 🚀 What I’m Working On
+## 🛠️ What I’m Working On
 
-- 🔍 **Research**: Log analysis & anomaly detection for intrusion response in small-scale Linux networks  
-- 🖥️ **Home Server Project**: Repurposed an old **Acer Travelmate (2015)** into a private file server using **Samba**, IP masking, and network traffic control  
-- 🖥 **Desktop App**: `Network Intrusion Log Manager` – Built in Java Swing + JDBC + MySQL  
-- 📡 **Sniff-Recon**: Python CLI/GUI tool for PCAP analysis, leveraging AI (OpenAI / GroqCloud) to detect anomalies, suspicious traffic patterns, and potential attacks  
-- 🧪 **Multi-Boot Playground**: Parrot OS, Kali, Manjaro, Pop!_OS — real-world OS-level experiments  
+-  **Research**: Log analysis & anomaly detection for intrusion response in small-scale Linux networks.
+-  **Home Server Project**: Repurposed an old **Acer Travelmate (2015)** into a private file server using **Samba**, IP masking, and network traffic control.
+-  **Network Intrusion Log Manager**: Desktop App Built in Java Swing + JDBC + MySQL  
+-  **Sniff-Recon**: Python streamlit GUI tool for PCAP analysis, leveraging AI (GroqCloud APIs) to detect anomalies, suspicious traffic patterns, and potential attacks.
+-  **Multi-Boot Playground**: Parrot OS, Kali, Arch Linux, Pop!_OS — real-world OS-level experiments.
 
 
 ---
 
 ## 💡 Core Interests
 
-- 🔐 Cybersecurity • Penetration Testing • Digital Forensics  
-- 🌐 Networking • Firewalls • Packet Analysis  
-- 🧱 Backend Engineering • Log Systems • Java + MySQL  
-- 🛠️ Hardware Builds • Home Labs • Linux Administration  
-- 🧠 Arch-Based OS Distros • Terminal Power • System Tinkering  
+- Cybersecurity • Penetration Testing • Digital Forensics  
+- Networking • Firewalls • Packet Analysis  
+- Backend Engineering • Log Systems • Java + MySQL  
+- Hardware Builds • Home Labs • Linux Administration  
+- Arch-Based OS Distros • Terminal Power • System Tinkering  
 
 ---
 
@@ -45,6 +45,7 @@ From secure Linux distros to rolling releases, I explore each to deepen my syste
 
 <p>
   <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Parrot-1F9AFE?style=for-the-badge&logo=parrot-security&logoColor=white">
   <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
@@ -74,11 +75,13 @@ What I use for backend logic, system automation, and hands-on server/hardware co
 ---
 
 
-## 🎯 Goals
+## 🎯 Current Focus
 
-- 🔐 Secure internships/projects in cybersecurity & infrastructure security  
-- 🛡️ Build lightweight tools for log analysis & system defense  
-- ⚙️ Automate backend security with scripts and services  
+- Secure internships/projects in **cybersecurity & infrastructure security**.
+- Build advanced **network security solutions**.  
+- Contribute to **open-source cybersecurity projects**.  
+- Explore **AI + Cybersecurity integrations**.  
+- Develop skills towards becoming a **Cybersecurity Engineer**. 
 
 ---
 
