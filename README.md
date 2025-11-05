@@ -101,17 +101,22 @@ What I use for backend logic, system automation, and hands-on server/hardware co
 
 ## <img src="https://img.icons8.com/ios-filled/30/39FF14/internet--v1.png" alt="Internet" width="24"/> Connect with Me
 
-  <a href="https://www.linkedin.com/in/aravindlal8086/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:22px;box-shadow:0 0 10px #0A66C2;">
+<div align="center">
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aravindlal8086/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/mfscpayload_690_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius:22px;box-shadow:0 0 10px #E4405F;">
+  <a href="https://www.instagram.com/mfscpayload_690_/">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  
-  <a href="mailto:aravindlal2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius:20px;box-shadow:0 0 10px #39FF14;">
+  <a href="https://www.reddit.com/user/mfscpayload_690_/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
   </a>
 </p>
+
+</div>
+
 
 </div>
 
