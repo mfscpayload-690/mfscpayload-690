@@ -8,12 +8,9 @@ Hi, I’m Aravind Lal — a BTech Computer Science & Engineering student at IHRD
 
 ## 🛠️ What I’m Working On
 
--  **Research**: Log analysis & anomaly detection for intrusion response in small-scale Linux networks.
 -  **Home Server Project**: Repurposed an old **Acer Travelmate (2015)** into a private file server using **Samba**, IP masking, and network traffic control.
--  **Network Intrusion Log Manager**: Desktop App Built in Java Swing + JDBC + MySQL  
--  **Sniff-Recon**: Python streamlit GUI tool for PCAP analysis, leveraging AI (GroqCloud APIs) to detect anomalies, suspicious traffic patterns, and potential attacks.
+-  **Sniff-Recon**: Python streamlit GUI tool for PCAP analysis, leveraging AI (GroqCloud APIs/OpenAI/Gemini) to detect anomalies, suspicious traffic patterns, and potential attacks.
 -  **Multi-Boot Playground**: Parrot OS, Kali, Arch Linux, Pop!_OS — real-world OS-level experiments.
-
 
 ---
 
@@ -23,36 +20,26 @@ Hi, I’m Aravind Lal — a BTech Computer Science & Engineering student at IHRD
 - Networking • Firewalls • Packet Analysis  
 - Backend Engineering • Log Systems • Java + MySQL  
 - Hardware Builds • Home Labs • Linux Administration  
-- Arch-Based OS Distros • Terminal Power • System Tinkering  
+- Arch-Based Distros • Terminal Power • System Tinkering  
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
-### 📚 Programming Languages I Use Regularly
-These are the languages I use for scripting, backend development, and security automation. I also use HTML/CSS when needed for server dashboards, panels, and log visualization:
+### � Languages & Scripting
+Core languages for development, automation, security tooling, and system-level programming:
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-### 💻 Operating Systems I Work With
-From secure Linux distros to rolling releases, I explore each to deepen my system-level knowledge:
-
-<p>
-  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Parrot-1F9AFE?style=for-the-badge&logo=parrot-security&logoColor=white">
-  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
-</p>
-
-### 🔐 Cybersecurity & Network Tools
-My go-to toolkit for network analysis, packet capture, log monitoring, and server-side protection:
+### � Security & Network Tools
+Arsenal for network analysis, penetration testing, packet capture, and infrastructure protection:
 
 <p>
   <img src="https://img.shields.io/badge/Nmap-004d7a?style=for-the-badge&logo=nmap&logoColor=white">
@@ -62,14 +49,37 @@ My go-to toolkit for network analysis, packet capture, log monitoring, and serve
   <img src="https://img.shields.io/badge/iptables-grey?style=for-the-badge">
 </p>
 
-### 🛠️ Server, Backend & Hardware Tools
-What I use for backend logic, system automation, and hands-on server/hardware configuration:
+### �️ DevOps & Infrastructure
+Tools for version control, containerization, virtualization, and infrastructure automation:
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
+</p>
+
+### 🗄️ Databases & Backend
+Database systems and web servers for application data management and backend services:
+
+<p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Swing-A100FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+</p>
+
+### 🐧 Operating Systems
+Linux distributions for security research, penetration testing, and system administration:
+
+<p>
+  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Parrot-1F9AFE?style=for-the-badge&logo=parrot-security&logoColor=white">
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white">
+  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
 </p>
 
 ---
@@ -114,6 +124,22 @@ What I use for backend logic, system automation, and hands-on server/hardware co
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
   </a>
 </p>
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+
+<p align="center">
+  <a href="https://buymeacoffee.com/mfscpayload690">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+</p>
+
+<p>If you find my projects helpful or interesting, consider supporting my work! ☕</p>
 
 </div>
 
