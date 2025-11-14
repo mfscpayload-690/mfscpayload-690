@@ -2,7 +2,7 @@
 
 **Cybersecurity Enthusiast | BTech CSE Student | Linux Nerd | Hardware & Network Explorer**
 
-Hi, I’m Aravind Lal — a BTech Computer Science & Engineering student at IHRD College of Engineering, Kallooppara. I specialize in cybersecurity, networking, backend systems, and working close to the hardware and OS-level. I’m passionate about building secure systems, analyzing logs, setting up servers, and exploring how networks really work — and how to protect them.
+Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD College of Engineering, Kallooppara. I specialize in cybersecurity, networking, backend systems, and working close to the hardware and OS-level. I’m passionate about building secure systems, analyzing logs, setting up servers, and exploring how networks really work and how to protect them.
 
 ---
 
@@ -10,7 +10,7 @@ Hi, I’m Aravind Lal — a BTech Computer Science & Engineering student at IHRD
 
 -  **Home Server Project**: Repurposed an old **Acer Travelmate (2015)** into a private file server using **Samba**, IP masking, and network traffic control.
 -  **Sniff-Recon**: Python streamlit GUI tool for PCAP analysis, leveraging AI (GroqCloud APIs/OpenAI/Gemini) to detect anomalies, suspicious traffic patterns, and potential attacks.
--  **Multi-Boot Playground**: Parrot OS, Kali, Arch Linux, Pop!_OS — real-world OS-level experiments.
+-  **Multi-Boot Playground**: Parrot OS, Kali, Arch Linux, Pop!_OS - real-world OS-level experiments.
 
 ---
 
