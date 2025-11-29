@@ -105,6 +105,8 @@ Linux distributions for security research, penetration testing, and system admin
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&card_width=500" alt="Top Languages" loading="lazy">
 
+  ![](https://github-contributor-stats.vercel.app/api?username=mfscpayload-690&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 </div>
 
 ---
