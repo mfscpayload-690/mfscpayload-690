@@ -68,9 +68,11 @@ Database systems and web servers for application data management and backend ser
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
+
 
 ### 🐧 Operating Systems
 Linux distributions for security research, penetration testing, and system administration:
@@ -113,25 +115,6 @@ Linux distributions for security research, penetration testing, and system admin
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/30/39FF14/internet--v1.png" alt="Internet" width="24"/> Connect with Me
-
-<div align="center">
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aravindlal8086/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/mfscpayload_690_/">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.reddit.com/user/mfscpayload_690_/">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
-  </a>
-</p>
-
-</div>
-
----
 
 ## ☕ Support My Work
 
