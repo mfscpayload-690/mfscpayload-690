@@ -26,65 +26,23 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 
 ## 🧰 Tech Stack & Tools
 
-### � Languages & Scripting
-Core languages for development, automation, security tooling, and system-level programming:
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,c,js,html,css,bash,linux,git,github,vercel,docker,kubernetes,mysql,postgres,supabase,nginx,arch,fedora&theme=dark" />
 </p>
 
-### � Security & Network Tools
-Arsenal for network analysis, penetration testing, packet capture, and infrastructure protection:
-
-<p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white">
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white">
+  <img src="https://img.shields.io/badge/Parrot-1F9AFE?style=for-the-badge&logo=parrot-security&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Nmap-004d7a?style=for-the-badge&logo=nmap&logoColor=white">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
   <img src="https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-  <img src="https://img.shields.io/badge/Fail2Ban-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/iptables-grey?style=for-the-badge">
-</p>
-
-### �️ DevOps & Infrastructure
-Tools for version control, containerization, virtualization, and infrastructure automation:
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
-</p>
-
-### 🗄️ Databases & Backend
-Database systems and web servers for application data management and backend services:
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-</p>
-
-
-### 🐧 Operating Systems
-Linux distributions for security research, penetration testing, and system administration:
-
-<p>
-  <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Parrot-1F9AFE?style=for-the-badge&logo=parrot-security&logoColor=white">
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white">
-  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
+  <img src="https://img.shields.io/badge/Fail2Ban-2A2A2A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/iptables-333333?style=for-the-badge">
 </p>
 
 ---
