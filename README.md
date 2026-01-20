@@ -47,26 +47,16 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 
 ---
 
-
-## 🎯 Current Focus
-
-- Secure internships/projects in **cybersecurity & infrastructure security**.
-- Build advanced **network security solutions**.  
-- Contribute to **open-source cybersecurity projects**.  
-- Explore **AI + Cybersecurity integrations**.  
-- Develop skills towards becoming a **Cybersecurity Engineer**. 
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-mfscpayload-690.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-mfscpayload-690.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8" width="41%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfscpayload-690&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfscpayload-690&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-mfscpayload-690.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8" width="41%" alt="Top Languages" />
+
 </p>
 
 
