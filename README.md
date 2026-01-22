@@ -1,6 +1,6 @@
 # Aravind Lal
 
-**Cybersecurity Enthusiast | BTech CSE Student | Linux Nerd | Hardware & Network Explorer**
+**Cybersecurity Enthusiast | arch btw 🫨 | Linux Nerd | Hardware & Network Explorer**
 
 Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD College of Engineering, Kallooppara. I specialize in cybersecurity, networking, backend systems, and working close to the hardware and OS-level. I’m passionate about building secure systems, analyzing logs, setting up servers, and exploring how networks really work and how to protect them.
 
@@ -27,7 +27,7 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,js,html,css,bash,linux,git,github,vercel,docker,kubernetes,mysql,postgres,supabase,nginx,arch,fedora&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,js,ts,html,css,npm,vite,bash,vim,neovim,vscode,vscodium,git,github,vercel,netlify,docker,kubernetes,mysql,postgres,mongodb,supabase,nginx,linux,arch,ubuntu,kali,fedora&theme=dark" />
 </p>
 
 <p align="center">
@@ -36,7 +36,6 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
   <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white">
   <img src="https://img.shields.io/badge/Parrot-1F9AFE?style=for-the-badge&logo=parrot-security&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
   <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Nmap-004d7a?style=for-the-badge&logo=nmap&logoColor=white">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
@@ -76,8 +75,6 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 <p>If you find my projects helpful or interesting, consider supporting my work! ☕</p>
 
 </div>
-
-
 </div>
 
 ---
