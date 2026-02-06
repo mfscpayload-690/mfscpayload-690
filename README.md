@@ -24,6 +24,19 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 
 ---
 
+## 🔥 Tech Arsenal Overview
+
+```text
+Programming    ████████████████████   Python, Java, C, JavaScript
+Frameworks     ██████████████████░░   Flask, Django, Node.js, React
+Security       ████████████████████   Pentesting, OSINT, Network Analysis
+DevOps         ███████████████░░░░░   Docker, Kubernetes, Nginx, Linux
+Cloud          ██████████████░░░░░░   Vercel, Netlify, Supabase
+Tools          ████████████████████   Wireshark, Burp Suite, Nmap
+```
+
+---
+
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
@@ -48,6 +61,12 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfscpayload-690&bg_color=0d1117&color=4CAF50&line=4CAF50&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+<br/>
+
 <p align="center">
   <img src="https://github-readme-stats-mfscpayload-690.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mfscpayload-690&theme=tokyonight-duo" alt="GitHub Streak" /></a>
@@ -57,6 +76,9 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
   <img src="https://github-readme-stats-mfscpayload-690.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8" width="41%" alt="Top Languages" />
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
