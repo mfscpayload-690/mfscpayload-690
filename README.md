@@ -24,19 +24,6 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 
 ---
 
-## 🔥 Tech Arsenal Overview
-
-```text
-Programming    ████████████████████   Python, Java, C, JavaScript
-Frameworks     ██████████████████░░   Flask, Django, Node.js, React
-Security       ████████████████████   Pentesting, OSINT, Network Analysis
-DevOps         ███████████████░░░░░   Docker, Kubernetes, Nginx, Linux
-Cloud          ██████████████░░░░░░   Vercel, Netlify, Supabase
-Tools          ████████████████████   Wireshark, Burp Suite, Nmap
-```
-
----
-
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
