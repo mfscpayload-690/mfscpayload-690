@@ -48,10 +48,6 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfscpayload-690&bg_color=0d1117&color=4CAF50&line=4CAF50&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
 <br/>
 
 <p align="center">
@@ -65,6 +61,10 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mfscpayload-690/mfscpayload-690/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfscpayload-690&bg_color=0d1117&color=4CAF50&line=4CAF50&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
