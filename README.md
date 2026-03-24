@@ -1,10 +1,14 @@
+<div align="center">
+
 # Aravind Lal
 
-**Cybersecurity Enthusiast | arch btw 🫨 | Linux Nerd | Hardware & Network Explorer**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=800&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%90%A7+Arch+Linux+User+(btw);%F0%9F%95%B5%EF%B8%8F+Penetration+Testing+%7C+Forensics;%F0%9F%92%BB+Backend+Developer+%7C+Network+Explorer;%F0%9F%94%A7+Hardware+Tinkerer+%7C+Home+Lab+Builder" alt="Typing SVG" /></a>
+
+</div>
 
 Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD College of Engineering, Kallooppara. I specialize in cybersecurity, networking, backend systems, and working close to the hardware and OS-level. I’m passionate about building secure systems, analyzing logs, setting up servers, and exploring how networks really work and how to protect them.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## 🛠️ What I’m Working On
 
@@ -12,7 +16,7 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 -  **Sniff-Recon**: Python streamlit GUI tool for PCAP analysis, leveraging AI (GroqCloud APIs/OpenAI/Gemini) to detect anomalies, suspicious traffic patterns, and potential attacks.
 -  **Multi-Boot Playground**: Parrot OS, Kali, Arch Linux, Pop!_OS - real-world OS-level experiments.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## 💡 Core Interests
 
@@ -20,9 +24,9 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 - Networking • Firewalls • Packet Analysis  
 - Backend Engineering • Log Systems • Java + MySQL  
 - Hardware Builds • Home Labs • Linux Administration  
-- Arch-Based Distros • Terminal Power • System Tinkering  
+- Arch-Based Distros • Terminal Power • System Tinkering
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## 🧰 Tech Stack & Tools
 
@@ -44,7 +48,7 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
   <img src="https://img.shields.io/badge/iptables-333333?style=for-the-badge">
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -69,7 +73,7 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfscpayload-690&bg_color=0d1117&color=4CAF50&line=4CAF50&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## 📫 Connect With Me
 
@@ -85,7 +89,7 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## ☕ Support My Work
 
@@ -101,4 +105,4 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
