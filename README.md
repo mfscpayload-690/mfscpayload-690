@@ -75,6 +75,28 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
+## 🏅 Google Developer Profile & Badges
+
+<div align="center">
+  <a href="https://g.dev/mfscpayload-690">
+    <img src="https://github.com/user-attachments/assets/7ca2c277-7fe9-4f56-8cb8-74b1c7bcae45" alt="Google Developer badges earned by Aravind Lal" width="720" />
+  </a>
+  <p><a href="https://g.dev/mfscpayload-690"><strong>g.dev/mfscpayload-690</strong></a></p>
+</div>
+
+**Badges earned**
+- [Cloud Innovators — 2021 Member](https://developers.google.com/profile/badges/community/innovators/cloud/2021_member)
+- [Firebase Studio Explorer](https://developers.google.com/profile/badges/community/firebasestudio/firebase-studio)
+- [NVIDIA Developer](https://developers.google.com/profile/badges/nvidia-developer)
+- [Cloud Innovators Plus](https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus)
+- [Google I/O 2026 — Registered](https://developers.google.com/profile/badges/events/io/2026/registered)
+- [Google I/O 2025 — Registered](https://developers.google.com/profile/badges/events/io/2025/registered)
+- [IDX User](https://developers.google.com/profile/badges/activity/idx/idx-user)
+- [Installed Android Studio](https://developers.google.com/profile/badges/activity/android/install-android-studio)
+- [Google Actions Recognition](https://developers.google.com/profile/badges/recognitions/actions)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
 ## 📫 Connect With Me
 
 <p align="center">
