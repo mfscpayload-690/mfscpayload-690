@@ -78,47 +78,77 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 ## 🏅 Google Developer Profile & Badges
 
 <p align="center">
-  <a href="https://g.dev/mfscpayload-690"><strong>g.dev/mfscpayload-690</strong></a>
+  <a href="https://g.dev/mfscpayload-690">
+    <img src="https://img.shields.io/badge/Developer_Profile-g.dev%2Fmfscpayload--690-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://developers.google.com/profile/badges/nvidia-developer">
-    <img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" alt="NVIDIA Developer" height="120" />
-  </a>
-  <a href="https://developers.google.com/profile/badges/community/firebasestudio/firebase-studio">
-    <img src="https://developers.google.com/static/profile/badges/community/firebasestudio/firebase-studio/badge.svg" alt="Firebase Studio Explorer" height="120" />
-  </a>
-  <a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member">
-    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Cloud Innovators — 2021 Member" height="120" />
-  </a>
-  <a href="https://developers.google.com/profile/badges/community/gdg/discovery">
-    <img src="https://developers.google.com/static/profile/badges/community/gdg/discovery/badge.svg" alt="GDG Discovery" height="120" />
-  </a>
-  <a href="https://developers.google.com/profile/badges/events/io/2026/registered">
-    <picture>
-      <source srcset="https://developers.google.com/static/profile/badges/events/io/2026/registered/badge.svg">
-      <img src="assets/badges/io-2026.svg" alt="Google I/O 2026 — Registered" height="120" />
-    </picture>
-  </a>
-  <a href="https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus">
-    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" alt="Cloud Innovators Plus" height="120" />
-  </a>
-  <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio">
-    <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" alt="Installed Android Studio" height="120" />
-  </a>
-  <a href="https://developers.google.com/profile/badges/events/io/2025/registered">
-    <picture>
-      <source srcset="https://developers.google.com/static/profile/badges/events/io/2025/registered/badge.svg">
-      <img src="assets/badges/io-2025.svg" alt="Google I/O 2025 — Registered" height="120" />
-    </picture>
-  </a>
-  <a href="https://developers.google.com/profile/badges/recognitions/actions">
-    <img src="https://developers.google.com/static/profile/badges/recognitions/actions/actions.svg" alt="Google Actions Recognition" height="120" />
-  </a>
-  <a href="https://developers.google.com/profile/badges/activity/idx/idx-user">
-    <img src="https://developers.google.com/static/profile/badges/activity/idx/idx-user/badge.svg" alt="IDX User" height="120" />
-  </a>
-</p>
+<table align="center" style="border: none; background: transparent;">
+  <tr align="center" style="border: none; background: transparent;">
+    <td align="center" width="20%" style="border: none; background: transparent;">
+      <a href="https://developers.google.com/profile/badges/nvidia-developer">
+        <img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" alt="NVIDIA Developer" height="100" /><br>
+        <sub><b>Google Cloud & NVIDIA</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%" style="border: none; background: transparent;">
+      <a href="https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus">
+        <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" alt="Cloud Innovators Plus" height="100" /><br>
+        <sub><b>Cloud Innovators Plus</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%" style="border: none; background: transparent;">
+      <a href="https://developers.google.com/profile/badges/community/firebasestudio/firebase-studio">
+        <img src="https://developers.google.com/static/profile/badges/community/firebasestudio/firebase-studio/badge.svg" alt="Firebase Studio Explorer" height="100" /><br>
+        <sub><b>Firebase Studio</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%" style="border: none; background: transparent;">
+      <a href="https://developers.google.com/profile/badges/events/io/2025/registered">
+        <img src="assets/badges/io_2025.png" alt="Google I/O 2025 — Registered" height="100" /><br>
+        <sub><b>I/O 2025 Registered</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%" style="border: none; background: transparent;">
+      <a href="https://developers.google.com/profile/badges/events/io/2026/registered">
+        <img src="assets/badges/io_2026.png" alt="Google I/O 2026 — Registered" height="100" /><br>
+        <sub><b>I/O 2026 Registered</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr align="center" style="border: none; background: transparent;">
+    <td align="center" width="20%" style="border: none; background: transparent;">
+      <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio">
+        <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" alt="Installed Android Studio" height="100" /><br>
+        <sub><b>Android Studio User</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%" style="border: none; background: transparent;">
+      <a href="https://developers.google.com/profile/badges/activity/idx/idx-user">
+        <img src="https://developers.google.com/static/profile/badges/activity/idx/idx-user/badge.svg" alt="IDX User" height="100" /><br>
+        <sub><b>Project IDX User</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%" style="border: none; background: transparent;">
+      <a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member">
+        <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Cloud Innovators — 2021 Member" height="100" /><br>
+        <sub><b>Cloud Innovator</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%" style="border: none; background: transparent;">
+      <a href="https://developers.google.com/profile/badges/community/gdg/discovery">
+        <img src="https://developers.google.com/static/profile/badges/community/gdg/discovery/badge.svg" alt="GDG Discovery" height="100" /><br>
+        <sub><b>GDG Discovery</b></sub>
+      </a>
+    </td>
+    <td align="center" width="20%" style="border: none; background: transparent;">
+      <a href="https://developers.google.com/profile/badges/recognitions/actions">
+        <img src="https://developers.google.com/static/profile/badges/recognitions/actions/actions.svg" alt="Google Actions" height="100" /><br>
+        <sub><b>Google Actions</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
