@@ -78,7 +78,9 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 ## 🏅 Google Developer Profile & Badges
 
 <p align="center">
-  <a href="https://g.dev/mfscpayload-690"><strong>g.dev/mfscpayload-690</strong></a>
+  <a href="https://g.dev/mfscpayload-690">
+    <img src="https://img.shields.io/badge/Developer_Profile-g.dev%2Fmfscpayload--690-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile" />
+  </a>
 </p>
 
 <table align="center" style="border: none; background: transparent;">
