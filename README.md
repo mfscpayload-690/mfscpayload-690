@@ -87,6 +87,12 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
   <a href="https://instagram.com/mfscpayload_690_">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
+  <a href="https://www.reddit.com/user/mfscpayload_690_">
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" alt="Reddit" width="48" height="48" />
+  </a>
+  <a href="https://discord.com/users/1289881037735858187">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
