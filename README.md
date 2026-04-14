@@ -95,10 +95,7 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
     <img src="https://developers.google.com/static/profile/badges/community/gdg/discovery/badge.svg" alt="GDG Discovery" height="120" />
   </a>
   <a href="https://developers.google.com/profile/badges/events/io/2026/registered">
-    <picture>
-      <source srcset="https://developers.google.com/static/profile/badges/events/io/2026/registered/badge.svg">
-      <img src="assets/badges/io-2026.svg" alt="Google I/O 2026 — Registered" height="120" />
-    </picture>
+    <img src="assets/badges/io_2026.png" alt="Google I/O 2026 — Registered" height="120" />
   </a>
   <a href="https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus">
     <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" alt="Cloud Innovators Plus" height="120" />
@@ -107,10 +104,7 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
     <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" alt="Installed Android Studio" height="120" />
   </a>
   <a href="https://developers.google.com/profile/badges/events/io/2025/registered">
-    <picture>
-      <source srcset="https://developers.google.com/static/profile/badges/events/io/2025/registered/badge.svg">
-      <img src="assets/badges/io-2025.svg" alt="Google I/O 2025 — Registered" height="120" />
-    </picture>
+    <img src="assets/badges/io_2025.png" alt="Google I/O 2025 — Registered" height="120" />
   </a>
   <a href="https://developers.google.com/profile/badges/recognitions/actions">
     <img src="https://developers.google.com/static/profile/badges/recognitions/actions/actions.svg" alt="Google Actions Recognition" height="120" />
