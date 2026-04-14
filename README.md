@@ -77,23 +77,39 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 
 ## 🏅 Google Developer Profile & Badges
 
-<div align="center">
-  <a href="https://g.dev/mfscpayload-690">
-    <img src="https://github.com/user-attachments/assets/7ca2c277-7fe9-4f56-8cb8-74b1c7bcae45" alt="Google Developer badges earned by Aravind Lal" width="720" />
-  </a>
-  <p><a href="https://g.dev/mfscpayload-690"><strong>g.dev/mfscpayload-690</strong></a></p>
-</div>
+<p align="center">
+  <a href="https://g.dev/mfscpayload-690"><strong>g.dev/mfscpayload-690</strong></a>
+</p>
 
-**Badges earned**
-- [Cloud Innovators — 2021 Member](https://developers.google.com/profile/badges/community/innovators/cloud/2021_member)
-- [Firebase Studio Explorer](https://developers.google.com/profile/badges/community/firebasestudio/firebase-studio)
-- [NVIDIA Developer](https://developers.google.com/profile/badges/nvidia-developer)
-- [Cloud Innovators Plus](https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus)
-- [Google I/O 2026 — Registered](https://developers.google.com/profile/badges/events/io/2026/registered)
-- [Google I/O 2025 — Registered](https://developers.google.com/profile/badges/events/io/2025/registered)
-- [IDX User](https://developers.google.com/profile/badges/activity/idx/idx-user)
-- [Installed Android Studio](https://developers.google.com/profile/badges/activity/android/install-android-studio)
-- [Google Actions Recognition](https://developers.google.com/profile/badges/recognitions/actions)
+<p align="center">
+  <a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member">
+    <img src="https://img.shields.io/badge/Cloud%20Innovators-2021%20Member-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Innovators — 2021 Member" />
+  </a>
+  <a href="https://developers.google.com/profile/badges/community/firebasestudio/firebase-studio">
+    <img src="https://img.shields.io/badge/Firebase%20Studio-Explorer-F7C52D?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Studio Explorer" />
+  </a>
+  <a href="https://developers.google.com/profile/badges/nvidia-developer">
+    <img src="https://img.shields.io/badge/NVIDIA-Developer-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Developer" />
+  </a>
+  <a href="https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus">
+    <img src="https://img.shields.io/badge/Cloud%20Innovators-Plus-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Innovators Plus" />
+  </a>
+  <a href="https://developers.google.com/profile/badges/events/io/2026/registered">
+    <img src="https://img.shields.io/badge/Google%20I%2FO-2026%20Registered-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google I/O 2026 — Registered" />
+  </a>
+  <a href="https://developers.google.com/profile/badges/events/io/2025/registered">
+    <img src="https://img.shields.io/badge/Google%20I%2FO-2025%20Registered-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google I/O 2025 — Registered" />
+  </a>
+  <a href="https://developers.google.com/profile/badges/activity/idx/idx-user">
+    <img src="https://img.shields.io/badge/IDX-User-9C27B0?style=for-the-badge&logo=google&logoColor=white" alt="IDX User" />
+  </a>
+  <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio">
+    <img src="https://img.shields.io/badge/Android%20Studio-Installed-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Installed Android Studio" />
+  </a>
+  <a href="https://developers.google.com/profile/badges/recognitions/actions">
+    <img src="https://img.shields.io/badge/Google%20Actions-Recognition-673AB7?style=for-the-badge&logo=googleassistant&logoColor=white" alt="Google Actions Recognition" />
+  </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
