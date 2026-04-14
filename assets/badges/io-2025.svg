@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="120" viewBox="0 0 320 120" role="img" aria-labelledby="title desc">
+  <title id="title">Google I/O 2025 Registered</title>
+  <desc id="desc">Fallback badge for Google I/O 2025 registration</desc>
+  <defs>
+    <linearGradient id="bg25" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b8043"/>
+      <stop offset="100%" stop-color="#34a853"/>
+    </linearGradient>
+    <linearGradient id="accent25" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#66bb6a"/>
+      <stop offset="100%" stop-color="#b2fab4"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="308" height="108" rx="18" fill="url(#bg25)" stroke="#ffffff" stroke-width="2" opacity="0.95"/>
+  <rect x="16" y="22" width="68" height="76" rx="12" fill="url(#accent25)"/>
+  <rect x="28" y="38" width="12" height="44" rx="6" fill="#0b8043"/>
+  <circle cx="68" cy="60" r="18" fill="#0b8043"/>
+  <circle cx="68" cy="60" r="10" fill="#ffffff"/>
+  <path d="M88 42 L88 78 L110 60 Z" fill="#0b8043"/>
+  <text x="130" y="56" fill="#e8f5e9" font-family="Arial, sans-serif" font-weight="700" font-size="20">Google I/O</text>
+  <text x="130" y="80" fill="#e8f5e9" font-family="Arial, sans-serif" font-weight="600" font-size="18">2025 · Registered</text>
+</svg>

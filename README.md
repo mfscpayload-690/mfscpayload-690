@@ -75,6 +75,53 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
+## 🏅 Google Developer Profile & Badges
+
+<p align="center">
+  <a href="https://g.dev/mfscpayload-690"><strong>g.dev/mfscpayload-690</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://developers.google.com/profile/badges/nvidia-developer">
+    <img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" alt="NVIDIA Developer" height="120" />
+  </a>
+  <a href="https://developers.google.com/profile/badges/community/firebasestudio/firebase-studio">
+    <img src="https://developers.google.com/static/profile/badges/community/firebasestudio/firebase-studio/badge.svg" alt="Firebase Studio Explorer" height="120" />
+  </a>
+  <a href="https://developers.google.com/profile/badges/community/innovators/cloud/2021_member">
+    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Cloud Innovators — 2021 Member" height="120" />
+  </a>
+  <a href="https://developers.google.com/profile/badges/community/gdg/discovery">
+    <img src="https://developers.google.com/static/profile/badges/community/gdg/discovery/badge.svg" alt="GDG Discovery" height="120" />
+  </a>
+  <a href="https://developers.google.com/profile/badges/events/io/2026/registered">
+    <picture>
+      <source srcset="https://developers.google.com/static/profile/badges/events/io/2026/registered/badge.svg">
+      <img src="assets/badges/io-2026.svg" alt="Google I/O 2026 — Registered" height="120" />
+    </picture>
+  </a>
+  <a href="https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus">
+    <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" alt="Cloud Innovators Plus" height="120" />
+  </a>
+  <a href="https://developers.google.com/profile/badges/activity/android/install-android-studio">
+    <img src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" alt="Installed Android Studio" height="120" />
+  </a>
+  <a href="https://developers.google.com/profile/badges/events/io/2025/registered">
+    <picture>
+      <source srcset="https://developers.google.com/static/profile/badges/events/io/2025/registered/badge.svg">
+      <img src="assets/badges/io-2025.svg" alt="Google I/O 2025 — Registered" height="120" />
+    </picture>
+  </a>
+  <a href="https://developers.google.com/profile/badges/recognitions/actions">
+    <img src="https://developers.google.com/static/profile/badges/recognitions/actions/actions.svg" alt="Google Actions Recognition" height="120" />
+  </a>
+  <a href="https://developers.google.com/profile/badges/activity/idx/idx-user">
+    <img src="https://developers.google.com/static/profile/badges/activity/idx/idx-user/badge.svg" alt="IDX User" height="120" />
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
 ## 📫 Connect With Me
 
 <p align="center">
