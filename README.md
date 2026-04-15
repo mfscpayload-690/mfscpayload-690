@@ -155,37 +155,22 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:aravindlalwork@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/aravindlal8086">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/mfscpayload_690_">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  <a href="https://www.reddit.com/user/mfscpayload_690_">
-    <img src="https://cdn.simpleicons.org/reddit/FF4500" alt="Reddit" width="48" height="48" />
-  </a>
-  <a href="https://discord.com/users/1289881037735858187">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-  </a>
+  <a href="mailto:aravindlalwork@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/aravindlal8086"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/mfscpayload_690_"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://www.reddit.com/user/mfscpayload_690_"><img src="https://skillicons.dev/icons?i=reddit&color=FF4500" alt="Reddit" /></a>
+  <a href="https://discord.com/users/1289881037735858187"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## ☕ Support My Work
 
-<div align="center">
-
 <p align="center">
-  <a href="https://buymeacoffee.com/mfscpayload690">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  <a href="https://buymeacoffee.com/mfscpayload690" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
-
-<p>If you find my projects helpful or interesting, consider supporting my work! ☕</p>
-
-</div>
+<p align="center">If you find my projects helpful or interesting, consider supporting my work! ☕</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
