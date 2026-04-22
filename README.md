@@ -160,7 +160,7 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
   <a href="mailto:aravindlalwork@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/aravindlal8086"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="https://instagram.com/mfscpayload_690_"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-  <a href="https://www.reddit.com/user/mfscpayload_690_"><img src="https://skillicons.dev/icons?i=reddit" alt="Reddit" /></a>
+  <a href="https://www.reddit.com/user/mfscpayload_690_"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" height="48" /></a>
   <a href="https://discord.com/users/1289881037735858187"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
 </p>
 
