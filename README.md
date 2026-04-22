@@ -157,11 +157,11 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:aravindlalwork@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/aravindlal8086"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/mfscpayload_690_"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-  <a href="https://www.reddit.com/user/mfscpayload_690_"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" height="48" /></a>
-  <a href="https://discord.com/users/1289881037735858187"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+  <a href="mailto:aravindlalwork@gmail.com"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=46&bg=%23000000&shape=circle&animation=breathe&animationDuration=1.5" alt="gmail" /></a>
+  <a href="https://linkedin.com/in/aravindlal8086"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&bg=%23000000&shape=circle&animation=shake&animationDuration=1.3" alt="linkedin" /></a>
+  <a href="https://instagram.com/mfscpayload_690_"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&bg=%23000000&shape=circle&animation=shake&animationDuration=1.3" alt="instagram" /></a>
+  <a href="https://www.reddit.com/user/mfscpayload_690_"><img src="https://www.readmecodegen.com/api/social-icon?name=reddit&size=46&animation=shake&animationDuration=1.3" alt="reddit" /></a>
+  <a href="https://discord.com/users/1289881037735858187"><img src="https://www.readmecodegen.com/api/social-icon?name=discord&bg=%23000000&shape=circle&animation=shake&animationDuration=1.3" alt="discord" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
