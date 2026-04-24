@@ -31,7 +31,7 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,html,css,js,ts,react,nodejs,npm,vite,bash,vim,neovim,vscode,vscodium,git,github,vercel,netlify,firebase,docker,kubernetes,githubactions,mysql,postgres,mongodb,supabase,nginx,linux,arch,ubuntu,kali&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,html,css,js,ts,react,nodejs,npm,vite,bash,vim,neovim,vscode,vscodium,eclipse,git,github,vercel,netlify,firebase,docker,kubernetes,githubactions,mysql,postgres,mongodb,supabase,nginx,linux,arch,ubuntu,kali&theme=dark" />
 </p>
 
 <p align="center">
@@ -155,6 +155,7 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 
 <p align="center">
   <a href="mailto:aravindlalwork@gmail.com"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=46&bg=%23000000&shape=circle&animation=breathe&animationDuration=1.5" alt="gmail" /></a>
+<a href="https://dev.to/mfscpayload690"><img src="https://www.readmecodegen.com/api/social-icon?name=dev&animation=shake&animationDuration=1.4&link=https%3A%2F%2Fdev.to%2Fmfscpayload690&color=%23ffffff" alt="dev" /></a>
   <a href="https://linkedin.com/in/aravindlal8086"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&bg=%23000000&shape=circle&animation=shake&animationDuration=1.3" alt="linkedin" /></a>
   <a href="https://instagram.com/mfscpayload_690_"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&bg=%23000000&shape=circle&animation=shake&animationDuration=1.3" alt="instagram" /></a>
   <a href="https://www.reddit.com/user/mfscpayload_690_"><img src="https://www.readmecodegen.com/api/social-icon?name=reddit&size=46&animation=shake&animationDuration=1.3" alt="reddit" /></a>
