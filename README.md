@@ -153,11 +153,9 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 
 ## ☕ Support My Work
 
-<p align="center">
-  <a href="https://buymeacoffee.com/mfscpayload690" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</p>
+<p align="centre" href="https://www.buymeacoffee.com/mfscpayload690" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></p>
+
 <p align="center">If you find my projects helpful or interesting, consider supporting my work! ☕</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
