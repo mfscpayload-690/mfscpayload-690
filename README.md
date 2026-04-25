@@ -34,19 +34,6 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
   <img src="https://skillicons.dev/icons?i=py,java,c,html,css,js,ts,react,nodejs,npm,vite,bash,vim,neovim,vscode,vscodium,eclipse,git,github,vercel,netlify,firebase,docker,kubernetes,githubactions,mysql,postgres,mongodb,supabase,nginx,linux,arch,ubuntu,kali&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/podman/892CA0" alt="Podman" height="48" />
-  <img src="https://cdn.simpleicons.org/virtualbox/183A61" alt="VirtualBox" height="48" />
-  <img src="https://cdn.simpleicons.org/popos/48B9C7" alt="Pop!_OS" height="48" />
-  <img src="https://cdn.simpleicons.org/parrotsecurity/1F9AFE" alt="Parrot Security" height="48" />
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" height="48" />
-  <img src="https://cdn.simpleicons.org/burpsuite/ff6633" alt="Burp Suite" height="48" />
-  <img src="https://cdn.simpleicons.org/mariadb/003545" alt="MariaDB" height="48" />  
-  <img src="https://cdn.simpleicons.org/vmware/607078" alt="VMware" height="48" />
-  <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logoColor=white" alt="BlackArch" />
-  <img src="https://img.shields.io/badge/Nmap-004d7a?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-</p>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## 📊 GitHub Stats
