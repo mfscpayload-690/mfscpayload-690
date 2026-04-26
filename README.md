@@ -49,15 +49,15 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
   <img src="https://github-readme-stats-mfscpayload-690.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8" width="41%" alt="Top Languages" />
 </p>
 
-<!-- Snake Animation (hidden)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mfscpayload-690/mfscpayload-690/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
--->
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfscpayload-690&bg_color=0d1117&color=4CAF50&line=4CAF50&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
 </div>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=mfscpayload-690&theme=onedark" alt="trophy" />
+  </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
