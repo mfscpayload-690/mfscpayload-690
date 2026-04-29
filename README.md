@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%"/>
 
 <div align="center">
 
@@ -170,7 +170,7 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mfscpayload-690&label=Profile%20Views&color=FF3B3B&style=for-the-badge" alt="Profile Views" /> 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=128&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
 </div>
 
 </div>
