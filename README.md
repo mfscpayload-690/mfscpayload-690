@@ -1,6 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
+
 <div align="center">
 
-# Aravind Lal
+<p align="center">
+  <img src="https://dummyimage.com/500x80/000000/7f8cff.png&text=Aravind+Lal" alt="Aravind Lal" />
+</p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=800&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%90%A7+Arch+Linux+User+(btw);%F0%9F%95%B5%EF%B8%8F+Penetration+Testing+%7C+Forensics;%F0%9F%92%BB+Backend+Developer+%7C+Network+Explorer;%F0%9F%94%A7+Hardware+Tinkerer+%7C+Home+Lab+Builder" alt="Typing SVG" /></a>
 
@@ -162,3 +166,11 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mfscpayload-690&label=Profile%20Views&color=FF3B3B&style=for-the-badge" alt="Profile Views" /> 
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=128&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
+</div>
+
+</div>
