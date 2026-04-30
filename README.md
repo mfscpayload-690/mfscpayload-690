@@ -35,7 +35,7 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,html,css,js,ts,react,nodejs,npm,vite,bash,vim,neovim,vscode,vscodium,androidstudio,eclipse,anaconda,git,github,vercel,netlify,firebase,gcp,docker,kubernetes,githubactions,mysql,sqlite,postgres,redis,mongodb,supabase,nginx,linux,arch,ubuntu,kali&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,html,css,js,ts,react,nodejs,npm,vite,bash,vim,neovim,vscode,vscodium,androidstudio,eclipse,anaconda,git,github,vercel,netlify,firebase,postman,gcp,docker,kubernetes,githubactions,mysql,sqlite,postgres,redis,mongodb,supabase,nginx,linux,arch,ubuntu,kali&theme=dark" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
