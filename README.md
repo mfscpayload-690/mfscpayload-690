@@ -3,10 +3,10 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://dummyimage.com/500x80/000000/7f8cff.png&text=Aravind+Lal" alt="Aravind Lal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=1&pause=1&color=70A5FD&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Aravind+Lal" alt="Aravind Lal" />
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=800&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%90%A7+Arch+Linux+User+(btw);%F0%9F%95%B5%EF%B8%8F+Penetration+Testing+%7C+Forensics;%F0%9F%92%BB+Backend+Developer+%7C+Network+Explorer;%F0%9F%94%A7+Hardware+Tinkerer+%7C+Home+Lab+Builder" alt="Typing SVG" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=800&color=70A5FD&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%90%A7+Arch+Linux+User+(btw);%F0%9F%95%B5%EF%B8%8F+Penetration+Testing+%7C+Forensics;%F0%9F%92%BB+Backend+Developer+%7C+Network+Explorer;%F0%9F%94%A7+Hardware+Tinkerer+%7C+Home+Lab+Builder" alt="Typing SVG" /></a>
 
 </div>
 
@@ -34,9 +34,19 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 
 ## 🧰 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,html,css,js,ts,react,nodejs,fastapi,npm,vite,bash,vim,neovim,vscode,vscodium,androidstudio,eclipse,anaconda,git,github,vercel,netlify,firebase,postman,cloudflare,gcp,docker,kubernetes,githubactions,mysql,sqlite,postgres,redis,mongodb,supabase,nginx,raspberrypi,linux,arch,kali,ubuntu,debian,mint&theme=dark" />
-</p>
+<div align="center">
+  <p><strong>Languages & Frameworks</strong></p>
+  <img src="https://skillicons.dev/icons?i=py,java,c,html,css,js,ts,react,nodejs,fastapi,npm,vite&theme=dark" />
+  <br/><br/>
+  <p><strong>Cybersecurity, Systems & OS</strong></p>
+  <img src="https://skillicons.dev/icons?i=arch,kali,ubuntu,debian,mint,linux,raspberrypi,bash,vim,neovim&theme=dark" />
+  <br/><br/>
+  <p><strong>DevOps, Cloud & Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vscodium,androidstudio,eclipse,anaconda,postman,docker,kubernetes,githubactions,vercel,netlify,firebase,cloudflare,gcp,nginx&theme=dark" />
+  <br/><br/>
+  <p><strong>Databases & Storage</strong></p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,redis,mongodb,supabase&theme=dark" />
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
@@ -45,12 +55,12 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 <br/>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mfscpayload-690&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+  <img src="https://github-stats-extended.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" />
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=mfscpayload-690&theme=tokyonight-duo&border_radius=10&hide_border=true" alt="GitHub Streak" height="195" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8" width="41%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8" alt="Top Languages" height="195" />
 </p>
 
 <div align="center">
