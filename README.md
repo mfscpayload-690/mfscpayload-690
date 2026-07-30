@@ -45,12 +45,12 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats-mfscpayload-690.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mfscpayload-690&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-mfscpayload-690.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8" width="41%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mfscpayload-690&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8" width="41%" alt="Top Languages" />
 </p>
 
 <div align="center">
