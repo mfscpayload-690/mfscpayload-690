@@ -64,12 +64,12 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mfscpayload-690&bg_color=0d1117&color=4CAF50&line=4CAF50&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=mfscpayload-690&bg_color=0d1117&color=4CAF50&line=4CAF50&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=mfscpayload-690&theme=onedark" alt="trophy" />
+    <img src="https://github-profile-trophy-unserori.vercel.app/?username=mfscpayload-690&theme=onedark" alt="trophy" />
   </a>
 </p>
 
