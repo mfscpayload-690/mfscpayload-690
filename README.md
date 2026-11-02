@@ -56,7 +56,7 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=mfscpayload-690&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="195" />
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=mfscpayload-690&theme=tokyonight-duo&border_radius=10&hide_border=true" alt="GitHub Streak" height="195" /></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com?user=mfscpayload-690&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Streak" height="195" /></a>
 </p>
 
 <p align="center">
@@ -158,8 +158,8 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
   <a href="mailto:aravindlalwork@gmail.com"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=46&bg=%23000000&shape=circle&animation=breathe&animationDuration=1.5" alt="gmail" /></a>
 <a href="https://dev.to/mfscpayload690"><img src="https://www.readmecodegen.com/api/social-icon?name=dev&animation=shake&animationDuration=1.4&link=https%3A%2F%2Fdev.to%2Fmfscpayload690&color=%23ffffff" alt="dev" /></a>
   <a href="https://linkedin.com/in/aravindlal8086"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&bg=%23000000&shape=circle&animation=shake&animationDuration=1.3" alt="linkedin" /></a>
-  <a href="https://instagram.com/mfscpayload_690_"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&bg=%23000000&shape=circle&animation=shake&animationDuration=1.3" alt="instagram" /></a>
-  <a href="https://www.reddit.com/user/mfscpayload_690_"><img src="https://www.readmecodegen.com/api/social-icon?name=reddit&size=46&animation=shake&animationDuration=1.3" alt="reddit" /></a>
+  <a href="https://instagram.com/mpayload690"><img src="https://www.readmecodegen.com/api/social-icon?name=instagram&bg=%23000000&shape=circle&animation=shake&animationDuration=1.3" alt="instagram" /></a>
+  <a href="https://www.reddit.com/user/mfscpayload690"><img src="https://www.readmecodegen.com/api/social-icon?name=reddit&size=46&animation=shake&animationDuration=1.3" alt="reddit" /></a>
   <a href="https://discord.com/users/1289881037735858187"><img src="https://www.readmecodegen.com/api/social-icon?name=discord&bg=%23000000&shape=circle&animation=shake&animationDuration=1.3" alt="discord" /></a>
 </p>
 
