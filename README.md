@@ -16,6 +16,14 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
   <a href="https://hub.xerj.org/contributors/mfscpayload-690">
     <img src="assets/badges/xerj_contributor.svg" alt="XERJ Corpus Hub Contributor" />
   </a>
+  <a href="https://github.com/mfscpayload-690">
+    <img src="https://img.shields.io/badge/Open_Source-Contributor-2ea44f?style=flat&logo=github&logoColor=white" alt="Open Source Contributor" />
+  </a>
+  <a href="https://g.dev/mfscpayload-690">
+    <img src="https://img.shields.io/badge/Google_Developer-Profile-4285F4?style=flat&logo=google&logoColor=white" alt="Google Developer" />
+  </a>
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-success?style=flat" alt="Open to Collabs" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
