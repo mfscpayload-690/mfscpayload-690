@@ -42,10 +42,10 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
   <img src="https://skillicons.dev/icons?i=arch,kali,ubuntu,debian,mint,linux,windows,raspberrypi,bash,powershell,vim,neovim&theme=dark" />
   <br/><br/>
   <p><strong>DevOps, Cloud & Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vscodium,androidstudio,eclipse,anaconda,postman,docker,kubernetes,githubactions,vercel,netlify,firebase,cloudflare,gcp,nginx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vscodium,androidstudio,eclipse,anaconda,postman,docker,kubernetes,githubactions,aws,gcp,cloudflare,vercel,netlify,firebase,nginx,sentry&theme=dark" />
   <br/><br/>
   <p><strong>Databases & Storage</strong></p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,redis,mongodb,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,redis,mongodb,cassandra,supabase,prisma&theme=dark" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
