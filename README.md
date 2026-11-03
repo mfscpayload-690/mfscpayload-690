@@ -39,7 +39,7 @@ Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD Co
   <img src="https://skillicons.dev/icons?i=py,java,c,html,css,js,ts,react,nodejs,fastapi,npm,vite&theme=dark" />
   <br/><br/>
   <p><strong>Cybersecurity, Systems & OS</strong></p>
-  <img src="https://skillicons.dev/icons?i=arch,kali,ubuntu,debian,mint,linux,raspberrypi,bash,vim,neovim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arch,kali,ubuntu,debian,mint,linux,windows,raspberrypi,bash,powershell,vim,neovim&theme=dark" />
   <br/><br/>
   <p><strong>DevOps, Cloud & Tools</strong></p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vscodium,androidstudio,eclipse,anaconda,postman,docker,kubernetes,githubactions,vercel,netlify,firebase,cloudflare,gcp,nginx&theme=dark" />
