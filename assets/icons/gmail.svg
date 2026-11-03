@@ -1,0 +1,21 @@
+<svg width="46" height="46" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .animated-icon {
+      animation: shake 1.3s cubic-bezier(0.36, 0.07, 0.19, 0.97) infinite;
+      transform-origin: 12px 12px;
+      will-change: transform;
+    }
+    @keyframes shake {
+      0%, 100% { transform: translateX(0) rotate(0deg); }
+      10%, 30%, 50%, 70%, 90% { transform: translateX(-0.15px) rotate(-2deg); }
+      20%, 40%, 60%, 80% { transform: translateX(0.15px) rotate(2deg); }
+    }
+  </style>
+  <circle cx="12" cy="12" r="12" fill="#000000"/>
+  <g class="animated-icon">
+    <g transform="translate(5.4, 5.4) scale(0.55)">
+      <path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z" fill="#EA4335" />
+    </g>
+  </g>
+</svg>
+
