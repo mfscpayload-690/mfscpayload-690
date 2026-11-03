@@ -12,6 +12,12 @@
 
 Hi, I’m Aravind Lal, a BTech Computer Science & Engineering student at IHRD College of Engineering, Kallooppara. I specialize in cybersecurity, networking, backend systems, and working close to the hardware and OS-level. I’m passionate about building secure systems, analyzing logs, setting up servers, and exploring how networks really work and how to protect them.
 
+<p align="center">
+  <a href="https://hub.xerj.org/contributors/mfscpayload-690">
+    <img src="assets/badges/xerj_contributor.svg" alt="XERJ Corpus Hub Contributor" />
+  </a>
+</p>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" width="100%">
 
 ## 🛠️ What I’m Working On
